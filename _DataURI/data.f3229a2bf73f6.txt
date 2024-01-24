@@ -1,0 +1,1 @@
+chrome-extension://pmjeegjhjdlccodhacdgbgfagbpmccpe/contentScripts/service-localstorage.js
